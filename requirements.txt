@@ -1,0 +1,19 @@
+# Core LangChain
+langchain>=0.1.13
+langchain-community>=0.0.27
+langchain-google-genai>=2.1.2
+langchain-pinecone>=0.0.3
+
+# Vector DB
+pinecone>=3.0.0
+
+# Embeddings
+sentence-transformers>=2.2.2
+
+# PDF support
+pypdf>=3.17.4
+
+# Environment management
+python-dotenv>=1.0.1
+
+
